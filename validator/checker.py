@@ -70,10 +70,14 @@ DUPLICATED_NAMES = (
     'HBTC yVault',
     'AAVE yVault',
     'DAI yVault',
+    'SUSHI yVault',
+    'COMP yVault',
     'crvRenWBTC yVault',
     'SNX yVault',
     # Compund cWBTC-2
     'Compound Wrapped BTC',
+    # Tricrypto got upgraded with the same name
+    'Curve.fi USD-BTC-ETH',
 )
 
 DUPLICATED_SYMBOLS = (
@@ -90,6 +94,8 @@ DUPLICATED_SYMBOLS = (
     'yvWBTC',
     'yvAAVE',
     'yvDAI',
+    'yvSUSHI',
+    'yvCOMP',
     'yvcrvRenWBTC',
     'yvHBTC',
     'yvSNX',
